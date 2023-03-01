@@ -1,0 +1,32 @@
+
+Cabin number: 0 Passenger 0
+
+Passenger firstname: kamal
+Passenger surname: silva
+Passenger Expenses: 456456.0
+
+Cabin 0 Passenger 1 is Empty
+
+Cabin 0 Passenger 2 is Empty
+
+Cabin 1 is Empty
+
+Cabin 2 is Empty
+
+Cabin 3 is Empty
+
+Cabin 4 is Empty
+
+Cabin 5 is Empty
+
+Cabin 6 is Empty
+
+Cabin 7 is Empty
+
+Cabin 8 is Empty
+
+Cabin 9 is Empty
+
+Cabin 10 is Empty
+
+Cabin 11 is Empty
